@@ -1,0 +1,53 @@
+/* Login page Css Start */
+.login-cont{
+    background-color: rgb(175, 214, 214);
+    border-radius:10px ;
+   
+}
+.login-btn{
+    background-color: rgb(9, 36, 3);
+    color: aliceblue;
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+    width: 10vw;
+}
+/* Login page Css End */
+
+
+/* Admin Page css  Start*/
+
+/* .create-admi-btn{
+    border: none;
+    padding: 10px;
+    width: 10vw;
+    background-color: aquamarine;
+} */
+
+
+
+.tbody-lineHi{
+    line-height: 3;
+}
+.edit-btn{
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(191, 235, 255);
+    padding: 5px;
+}
+.edit-icon{
+    color: rgb(69, 103, 255);
+}
+
+.delete-btn{
+/* background-color: rgb(194, 194, 194); */
+background-color: rgb(191, 235, 255);
+border-radius: 2px;
+padding: 5px;
+}
+.delete-icon{
+    color: red;
+}
+/* Admin Page css End*/
+
+
